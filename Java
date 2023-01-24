@@ -6,3 +6,6 @@ Strings
 Encapsulation
 Abstraction
 Inheritance
+
+Collections
+Multi Threading
