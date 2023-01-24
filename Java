@@ -1,2 +1,5 @@
 jvm Jre Jdk
 Command line arguments
+Java Features
+Arrays 
+Strings
