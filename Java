@@ -9,3 +9,7 @@ Inheritance
 
 Collections
 Multi Threading
+
+JDBC 
+JSP 
+SERVLETS
