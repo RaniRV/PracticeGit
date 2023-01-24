@@ -3,3 +3,6 @@ Command line arguments
 Java Features
 Arrays 
 Strings
+Encapsulation
+Abstraction
+Inheritance
