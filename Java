@@ -6,3 +6,13 @@ Strings
 Encapsulation
 Abstraction
 Inheritance
+
+Collections
+Multi Threading
+
+JDBC 
+JSP 
+SERVLETS
+
+Done with all Changes
+Thankyou:)->
